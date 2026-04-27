@@ -1,6 +1,6 @@
-# Edify Logic Studio - LLC Website
+# Edify Leading Solutions - LLC Website
 
-This repository hosts the official landing page and privacy policy for **Edify Logic Studio LLC**.
+This repository hosts the official landing page and privacy policy for **Edify Leading Solutions LLC**.
 
 This static site was designed with a clean, modern B2B aesthetic to serve as the primary web presence for the agency and to fulfill corporate verification requirements. This static site is in an early version of deployment. More projects, client reviews, and user stories to come!
 
@@ -22,4 +22,4 @@ This project is built to be lightweight, fast, and completely free of complex bu
 - `privacy-policy.html` - Standard privacy policy required for app distribution and corporate compliance.
 - `logo.png` - The official company logo.
 
-© 2026 Edify Logic Studio LLC. All rights reserved.
+© 2026 Edify Leading Solutions LLC. All rights reserved.
